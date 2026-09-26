@@ -1,0 +1,7 @@
+numpy==2.4.6
+pandas==3.0.5
+scipy==1.17.1
+tabulate==0.10.0
+tqdm==4.70.0
+torch==2.13.0
+nvidia-dali-cuda130==2.2.0
